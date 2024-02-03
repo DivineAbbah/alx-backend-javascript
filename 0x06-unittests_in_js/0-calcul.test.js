@@ -33,4 +33,3 @@ describe("Tests calculateNumber function:", function() {
         });
     });
 });
-
